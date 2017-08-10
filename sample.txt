@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hihihihi
-fix
-=======
-hihihihi
->>>>>>> f14135563d4770886c333467458d9f4e6c394796
+hello world
